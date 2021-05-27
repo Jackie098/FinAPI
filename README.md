@@ -1,5 +1,5 @@
 ## FinAPI - Financeira
-  Sistema bancário parcial com cadastro de usuário, funções de depósito e saque e consultas de usuário e saldo. Demonstração de aplicação de funções e middlewares in Javascript.
+  API bancário parcial com cadastro de usuário, funções de depósito e saque e consultas de usuário e saldo. Demonstração de aplicação de funções e middlewares in Javascript.
 
 ---
 
