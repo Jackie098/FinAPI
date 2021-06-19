@@ -1,27 +1,27 @@
-## FinAPI - Financeira
-  API bancário parcial com cadastro de usuário, funções de depósito e saque e consultas de usuário e saldo. Demonstração de aplicação de funções e middlewares in Javascript.
+## FinAPI - Fiancial
+  Partial banking API with user registration, deposit and withdrawal functions, user and balance queries. Demonstration of application of functions and middlewares in Javascript.
 
 ---
 
-### Requisitos
+### Requirements
 
-- [X] Deve ser possível criar uma conta
-- [X] Deve ser possível buscar o extrato bancário do cliente
-- [X] Deve ser possível realizar um depósito
-- [X] Deve ser possível realizar um saque
-- [X] Deve ser possível buscar o extrato bancário do cliente por data
-- [X] De ser possível atualizar dados da conta do cliente
-- [X] Deve ser possível obter dados da conta do cliente
-- [X] Deve ser possível deletar uma conta
-- [X] Deve ser possível pesquisar o saldo de uma conta
+- [X] It must be possible to create an account
+- [X] It must be possible to fetch the customer's bank statement
+- [X] It must be possible to make a deposit
+- [X] It must be possible to make a withdrawal
+- [X] It must be possible to search the customer's bank statement by date
+- [X] To be able to update customer account data
+- [X] It must be possible to obtain customer account data
+- [X] It must be possible to delete an account
+- [X] It must be possible to search the balance of an account
 
 ---
 
-## Regras de negócio
+## Business Rules
 
-- [X] Não deve ser possível cadastrar uma conta CPF já existente
-- [X] Não deve ser possível buscar extrato em uma conta não existente
-- [X] Não deve ser possível fazer depósito em uma conta não existente
-- [X] Não deve ser possível fazer saque em uma conta não existente
-- [X] Não deve ser possível fazer saque quando o saldo for insuficiente
-- [X] Não deve ser possível excluir uma conta não existente
+- [X] It must not be possible to register an existing CPF account
+- [X] It must not be possible to fetch a statement from a non-existing account
+- [X] It must not be possible to make a deposit to a non-existing account
+- [X] It must not be possible to withdraw from a non-existing account
+- [X] It must not be possible to withdraw when the balance is insufficient
+- [X] It must not be possible to delete a non-existing account
